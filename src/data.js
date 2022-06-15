@@ -1,0 +1,1 @@
+export const namesList = ['John', 'David', 'Jack', 'James', 'Jim']
